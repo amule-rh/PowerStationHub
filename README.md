@@ -27,3 +27,12 @@ Bilingual (ES/EN) editorial affiliate website focused on portable power stations
 5. Inspect representative ES and EN URLs.
 6. Add the final legal controller/contact details.
 7. Add approved affiliate URLs after acceptance into the relevant programs.
+
+
+## v3 improvements
+- Google Search Console HTML verification tag added to published HTML pages.
+- Added theme-color metadata.
+- Added robots metadata to indexable pages.
+- Sitemap/robots consistency checked.
+- Calculator URLs retained and included in sitemap.
+- Maintains bilingual ES/EN architecture and calculator functionality.
