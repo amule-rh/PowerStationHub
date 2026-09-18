@@ -36,3 +36,7 @@ Bilingual (ES/EN) editorial affiliate website focused on portable power stations
 - Sitemap/robots consistency checked.
 - Calculator URLs retained and included in sitemap.
 - Maintains bilingual ES/EN architecture and calculator functionality.
+
+## v4 fix
+- Corrected all production canonical/OG/sitemap/robots URLs from the future custom domain to the currently deployed Vercel domain.
+- This prevents Search Console "URL no permitida" sitemap errors while the site is hosted on Vercel.
