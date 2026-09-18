@@ -19,3 +19,11 @@ Upload the contents to GitHub and let Vercel deploy.
 
 ## Affiliate links
 No affiliate links are hard-coded yet. Replace the official-source CTA with approved affiliate URLs only after joining the relevant program.
+
+
+## v10
+Official BLUETTI Elite 200 V2 product imagery is used on the Spanish and English product pages. Image is sourced from BLUETTI's official product CDN.
+
+
+## v11 — Official product imagery
+All 15 product pages, catalog cards and comparator headers use real manufacturer product imagery sourced from official manufacturer/CDN pages. No AI-generated product representations are used.
