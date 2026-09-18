@@ -13,4 +13,6 @@
   <url><loc>https://powerstationhub.com/es/guias/wh/</loc><xhtml:link rel="alternate" hreflang="es" href="https://powerstationhub.com/es/guias/wh/"/><xhtml:link rel="alternate" hreflang="en" href="https://powerstationhub.com/en/guias/wh/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://powerstationhub.com/es/guias/wh/"/></url>
   <url><loc>https://powerstationhub.com/es/mejores-2026/</loc><xhtml:link rel="alternate" hreflang="es" href="https://powerstationhub.com/es/mejores-2026/"/><xhtml:link rel="alternate" hreflang="en" href="https://powerstationhub.com/en/mejores-2026/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://powerstationhub.com/es/mejores-2026/"/></url>
   <url><loc>https://powerstationhub.com/es/privacy/</loc><xhtml:link rel="alternate" hreflang="es" href="https://powerstationhub.com/es/privacy/"/><xhtml:link rel="alternate" hreflang="en" href="https://powerstationhub.com/en/privacy/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://powerstationhub.com/es/privacy/"/></url>
+<url><loc>https://powerstationhub.com/es/calculadora-potencia/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://powerstationhub.com/en/power-calculator/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 </urlset>
