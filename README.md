@@ -1,14 +1,21 @@
-# PowerStationHub v8
+# PowerStationHub v9
 
-Bilingual ES/EN static site for portable power stations.
+Editorial/affiliate-ready upgrade.
 
-## v8 additions
-- Search and filters in the product database.
-- Select up to 3 products for comparison.
-- Interactive comparator in `/es/comparador/` and `/en/comparator/`.
-- Six static, indexable technical comparison pages in both languages.
-- Shared `assets/products.js` dataset used by catalog, calculator and comparator.
-- Sitemap regenerated from actual HTML routes.
-- Preserves Google Search Console verification and Vercel deployment.
+## Included
+- Model-level Best 2026 pages in ES/EN
+- 15-product technical database
+- Search, brand/capacity/output filters and sorting
+- 2–3 product comparator
+- PowerStationHub Score (editorial methodology, not lab testing)
+- Calculator -> compatible product recommendations
+- Deeper individual product pages with official-source CTAs
+- Observed EU prices only where verified from official stores; no invented prices/reviews/ratings
+- Updated sitemap from actual HTML routes
+- Google Search Console verification retained
 
-No prices, ratings, reviews or affiliate links are invented or added.
+## Deployment
+Upload the contents to GitHub and let Vercel deploy.
+
+## Affiliate links
+No affiliate links are hard-coded yet. Replace the official-source CTA with approved affiliate URLs only after joining the relevant program.
