@@ -13,3 +13,10 @@
 Replace the contents of the GitHub repository with this folder and deploy through Vercel.
 
 Editorial update: 18 September 2026.
+
+
+## v14 fixes
+- Fixed blank comparator route: full HTML shell + products.js + comparator.js + site.js.
+- Comparator now handles 0, 1, 2 and 3 selected products.
+- Replaced the broken EcoFlow DELTA 2 image URL with the current official EcoFlow CDN image.
+- Added image error fallback so broken remote images do not render as broken-image icons.
