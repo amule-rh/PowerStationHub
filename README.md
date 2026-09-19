@@ -1,22 +1,19 @@
-# PowerStationHub v12 — Money Pages + Recommendation Funnel
+# PowerStationHub — v15 PRO
 
-## Included
-- Priority money pages upgraded for EcoFlow DELTA 2, DELTA 2 Max, BLUETTI AC180, Anker SOLIX C1000 and Jackery Explorer 1000 v2.
-- Calculator recommendations now show real product images, specs, price when observed, product page CTA and official manufacturer link.
-- If no catalog model meets both calculated thresholds, the calculator shows the closest alternatives instead of an empty result.
-- Five primary indexable comparison pages upgraded with product images, practical interpretation, official sources and calculator CTA.
-- Breadcrumb and Product structured data on priority product pages.
-- Sitemap regenerated from actual routes.
-- No affiliate links are inserted yet.
+Professional static website for portable power stations, batteries and solar energy.
 
-## Deployment
-Replace the contents of the GitHub repository with this folder and deploy through Vercel.
+## v15 changes
+- White/green electric visual system with subtle motion and energy accents.
+- Professional responsive footer with ordered navigation and affiliate/legal links.
+- Functional mobile navigation drawer.
+- Calculator avoids double-counting the household baseline when appliances are explicitly selected.
+- Calculator applies inverter-loss allowance and preserves duty-cycle modelling.
+- BLUETTI AC180 startup/surge field updated to 2700 W.
+- Affiliate configuration remains centralized and empty until merchant approvals/tracking URLs are available.
+- Internal-link and asset QA performed before packaging.
 
-Editorial update: 18 September 2026.
+## Deploy
+Upload the contents of this repository to GitHub and connect the repository to Vercel. No build command is required.
 
-
-## v14 fixes
-- Fixed blank comparator route: full HTML shell + products.js + comparator.js + site.js.
-- Comparator now handles 0, 1, 2 and 3 selected products.
-- Replaced the broken EcoFlow DELTA 2 image URL with the current official EcoFlow CDN image.
-- Added image error fallback so broken remote images do not render as broken-image icons.
+## Important
+Prices and affiliate tracking URLs are intentionally not invented. Populate `assets/affiliate-config.js` only with real approved tracking URLs.
