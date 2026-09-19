@@ -106,3 +106,12 @@ body{overflow-x:hidden}
 @media(max-width:860px){.mobile-menu-btn{display:block}.site-header .nav{position:relative}.footer-grid-pro{grid-template-columns:1.5fr 1fr 1fr}.footer-bottom-pro{align-items:flex-start;flex-direction:column}}
 @media(max-width:560px){.footer-grid-pro{grid-template-columns:1fr 1fr;gap:26px}.footer-grid-pro .footer-brand-copy{grid-column:1/-1}.hero:before{width:400px;height:400px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important}}
+/* v16 — Home energy independence calculator */
+.home-energy-controls{grid-template-columns:repeat(3,1fr);border-bottom:0;padding-bottom:8px}
+.energy-orbit{min-height:250px;display:flex;align-items:center;justify-content:center;gap:14px;font-size:2.1rem;border:1px solid var(--line);border-radius:28px;background:radial-gradient(circle at center,#f2fbf5 0,#fff 64%);box-shadow:inset 0 0 0 10px rgba(25,198,83,.025)}
+.energy-orbit b{font-size:1.1rem;color:var(--green-dark)}
+.home-result-main{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}
+.home-result-main strong{display:block;font-size:1.65rem;margin-top:4px}.home-result-main small{display:block;color:#b9c5bf;margin-top:4px;font-size:.76rem}
+.home-result-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:18px}.home-result-grid div{background:rgba(255,255,255,.07);padding:13px;border-radius:11px}.home-result-grid span{display:block;color:#b9c5bf;font-size:.75rem}.home-result-grid b{display:block;margin-top:3px;font-size:1.05rem}.home-result-note{margin-top:18px;padding:13px 15px;border:1px solid rgba(255,255,255,.12);border-radius:11px;color:#d4ddd8;font-size:.84rem;line-height:1.5}
+@media(max-width:980px){.home-energy-controls{grid-template-columns:repeat(2,1fr)}.home-result-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.home-energy-controls,.home-result-main,.home-result-grid{grid-template-columns:1fr}.energy-orbit{min-height:170px;font-size:1.65rem}.home-energy-controls .calc-field{min-width:0}}
