@@ -20,5 +20,17 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/es/autonomia-energetica/",
+      "destination": "/es/home-energy-finder/",
+      "permanent": true
+    },
+    {
+      "source": "/en/energy-independence/",
+      "destination": "/en/home-energy-finder/",
+      "permanent": true
+    }
   ]
 }

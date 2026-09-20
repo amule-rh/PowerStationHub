@@ -2,7 +2,7 @@
 
 ## New feature
 - Home energy independence calculator added in Spanish and English.
-- Routes: `/es/autonomia-energetica/` and `/en/energy-independence/`.
+- Routes: `/es/home-energy-finder/` and `/en/home-energy-finder/`.
 - Inputs: monthly kWh or bill amount + effective €/kWh, desired autonomy days, design peak-sun hours, simultaneous load, usable battery fraction, battery/inverter efficiency, solar-system performance.
 - Outputs: estimated daily/annual consumption, indicative battery capacity, PV size, inverter size, autonomy, design solar production.
 - Bill mode is explicitly approximate; monthly kWh remains the preferred input.
