@@ -1,9 +1,7 @@
 /*
  * PowerStationHub affiliate configuration.
- *
- * IMPORTANT: keep these values empty until the corresponding affiliate account
- * is approved and you have received your unique tracking URLs.
- * Never invent tracking parameters.
+ * Approved BLUETTI US Awin tracking URLs are real links supplied by the publisher account.
+ * EU links remain empty until the corresponding EU/ES program is approved.
  */
 window.PSH_AFFILIATES = {
   'ecoflow-delta-2': '',
@@ -16,8 +14,12 @@ window.PSH_AFFILIATES = {
   'ecoflow-river-3': '',
   'ecoflow-river-3-plus': '',
   'ecoflow-river-3-max': '',
-  'bluetti-ac180': '',
-  'bluetti-elite-200-v2': '',
+  'bluetti-ac180': 'https://tidd.ly/4AnQWKE',
+  'bluetti-elite-200-v2': 'https://tidd.ly/4hAFyno',
+  'bluetti-elite-100-v2': 'https://tidd.ly/3Vohrj4',
+  'bluetti-elite-30-v2': 'https://tidd.ly/3SYzgVj',
+  'bluetti-elite-300': 'https://tidd.ly/4yShvGx',
+  'bluetti-elite-400': 'https://tidd.ly/4iDyxTV',
   'jackery-explorer-1000-v2': '',
   'anker-solix-c1000': '',
   'dji-power-1000': ''

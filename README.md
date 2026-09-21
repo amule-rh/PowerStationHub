@@ -25,3 +25,9 @@ Adds a home-energy vertical without changing the PowerStationHub brand: home bat
 
 ## v18 — Integrated Home Energy Finder
 The standalone energy-independence/autonomy pages have been consolidated into `/es/home-energy-finder/` and `/en/home-energy-finder/`. The Finder now combines consumption or bill input, existing solar, EV usage, backup autonomy, battery sizing, solar sizing, inverter sizing, wallbox sizing and indicative budget. Legacy autonomy URLs redirect to the Finder.
+
+
+### Affiliate status
+- BLUETTI US: approved tracking links integrated for AC180 and Elite 200 V2 on the English product pages.
+- BLUETTI Elite 100 V2, Elite 30 V2, Elite 300 and Elite 400 tracking URLs are stored for future catalog pages.
+- BLUETTI EU/ES remains empty until approval.
